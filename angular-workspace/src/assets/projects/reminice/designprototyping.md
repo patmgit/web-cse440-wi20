@@ -10,19 +10,37 @@ Our initial paper prototype worked to address four components of our main two ta
 
 #### Creating a Profile and Connecting Services
 
-<p style="text-align: center;"><img src="paper_login.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's login screen."><img src="paper_link_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's screen to link accounts from other social media services to reminice."><img src="paper_link_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's screen to link accounts with spotify, health, and google photos selected with green checkmarks."><img src="sign_up.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's sign up screen with text entry boxes for email, password, and confirm password."></p>
+<p style="display: flex; justify-content: center;">
+<img src="paper_login.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's login screen.">
+<img src="paper_link_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's screen to link accounts from other social media services to reminice.">
+<img src="paper_link_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's screen to link accounts with spotify, health, and google photos selected with green checkmarks.">
+<img src="sign_up.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's sign up screen with text entry boxes for email, password, and confirm password.">
+</p>
 
 #### Curating a Digital Scrapbook
 
-<p style="text-align: center;"><img src="paper_home.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="The home screen of our paper prototype with tiles for today, a year ago, viewing past entries, editing past entries, and settings and the paper prototypes day view with no content and an add content button."><img src="paper_add_to_day.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototypes add to day view with the expanded add content tile containing buttons for various forms of conent entry and another screen depicting added content from spotify."><img src="paper_complete_day.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's day view screen with photos, spotify, and a journal entry added and a share button in the lower right corner."></p>
+<p style="display: flex; justify-content: center;">
+<img src="paper_home.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="The home screen of our paper prototype with tiles for today, a year ago, viewing past entries, editing past entries, and settings and the paper prototypes day view with no content and an add content button.">
+<img src="paper_add_to_day.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototypes add to day view with the expanded add content tile containing buttons for various forms of conent entry and another screen depicting added content from spotify.">
+<img src="paper_complete_day.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's day view screen with photos, spotify, and a journal entry added and a share button in the lower right corner.">
+</p>
 
 #### Uploading from Physical to Digital
 
-<p style="text-align: center;"><img src="paper_prototype_journal.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's journal entry upload screens. The first shows a camera on a journal entry with a shutter button. The second shows a journal entries photo with some senteces highlighted for inclusion and buttons on the bottom menu to select, erase, or strike. The third dhows the selected entries converted to text each with checkmarks on the left side and a space to add comments, the bottom menu shows a go back and yes option for uploading."></p>
+<p style="display: flex; justify-content: center;">
+<img src="paper_prototype_journal_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's journal entry upload screens, showing a camera on a journal entry with a shutter button.">
+<img src="paper_prototype_journal_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's journal entry upload screens showing a journal entries photo with some sentences highlighted for inclusion and buttons on the bottom menu to select, erase, or strike.">
+<img src="paper_prototype_journal_3.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's journal entry upload screens showing the selected entries converted to text each with checkmarks on the left side and a space to add comments, the bottom menu shows a go back and yes option for uploading.">
+</p>
 
 #### Looking Back on Memories
 
-<p style="text-align: center;"><img src="paper_calendar.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of the paper prototype's calendar screen which shows the past entries. The entries can be shown in a day, week, or month view and months can be navigated with the arrows. The calendar shows each day and a series of icons for each day representing the types of entries made for that day. The bottom contains a menu to filter these entries by specific types. The second screen shows filtering for text entries and instead of icons the calendar shows the initial text of each day's entry."><img src="paper_search.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's search screen with a search for mountains resulting in a text entry, a spotify song, and a photo. Another screen is a drawing of the paper prototype's stat screen with the counts of various types of entries shown for each day."></p>
+<p style="display: flex; justify-content: center;">
+<img src="paper_calendar_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of the paper prototype's calendar screen which shows the past entries. The entries can be shown in a day, week, or month view and months can be navigated with the arrows. The calendar shows each day and a series of icons for each day representing the types of entries made for that day. The bottom contains a menu to filter these entries by specific types.">
+<img src="paper_calendar_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A continuation of the paper prototype's calendar screen which shows the past entries showing filtering for text entries and instead of icons the calendar shows the initial text of each day's entry.">
+<img src="paper_search_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's search screen with a search for mountains resulting in a text entry, a spotify song, and a photo.">
+<img src="paper_search_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our paper prototype's stat screen with the counts of various types of entries shown for each day.">
+</p>
 
 
 ### Testing Process
@@ -54,23 +72,23 @@ The in-class heuristic evaluation mainly helped us in identifying consistency er
 
 In our first usability test, we noticed that the participant was unclear on how to select/deselect parts of a physical journal entry. This issue was mainly an icon clarity problem but also pertained to minimalistic design. Because of this, we simplified the screen and used clearer action words to indicate the use of each button. Although not pictured, the after screen would portray a greyed out image of the journal entry. When the user would select the phrases he/she wanted, they would no longer be greyed out.
 
-Before: <p style="text-align: center;"><img src="select_before.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our initial paper prototype's select screen which comes up after a user takes an image of their physical journal entry. The screen shows highlighted and struck out text, and three buttons labeled: Select, Erase, and Strike, on the bottom of the screen."></p>
-After: <p style="text-align: center;"><img src="select_after_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A revised version of the screen that simplified the buttons from select, erase and strike, to just select and deselect. We found the inclusion of strike could be confusing to users, on how it is different from erase. We also added select all/deselect all buttons as well as undo and redo for greater control and ease of use."><img src="select_after_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A mockup to more clearly show the flow of how it would be used. An example photo of a physical journal entry is shown in the frame, but it is noticeably lightened/greyed out."><img src="select_after_3.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Shows the next step in the flow, with an outline of a user's hand, finger extended dragging over a sentence in the photo. There is a rectangular trail left by the finger in which that sentence is visibly clearer than the rest of the image."><img src="select_after_4.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A picture of the screen showing the end of the flow, with the selected text in a clear box within the image of the journal while the unselected text is still lightened/greyed out."></p>
+Before: <p style="display: flex; justify-content: center;"><img src="select_before.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our initial paper prototype's select screen which comes up after a user takes an image of their physical journal entry. The screen shows highlighted and struck out text, and three buttons labeled: Select, Erase, and Strike, on the bottom of the screen."></p>
+After: <p style="display: flex; justify-content: center;"><img src="select_after_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A revised version of the screen that simplified the buttons from select, erase and strike, to just select and deselect. We found the inclusion of strike could be confusing to users, on how it is different from erase. We also added select all/deselect all buttons as well as undo and redo for greater control and ease of use."><img src="select_after_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A mockup to more clearly show the flow of how it would be used. An example photo of a physical journal entry is shown in the frame, but it is noticeably lightened/greyed out."><img src="select_after_3.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Shows the next step in the flow, with an outline of a user's hand, finger extended dragging over a sentence in the photo. There is a rectangular trail left by the finger in which that sentence is visibly clearer than the rest of the image."><img src="select_after_4.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A picture of the screen showing the end of the flow, with the selected text in a clear box within the image of the journal while the unselected text is still lightened/greyed out."></p>
 
 In our first and second usability test we discovered that participants were not sure about the difference between uploading from a physical journal and taking a photo. To make this clear, we made the icons and their captions connect more with the physical actions. In all, this was an icon clarity issue.
 
-Before: <p style="text-align: center;"><img src="scan_journal_before.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our inital paper prototype screen depicting the add content options after the add content button is pressed on the day view. During our testing we found that participants were confused by the 'Take a photo' button, which they were supposed to press to upload photos of their physical journal entries."></p>
-After: <p style="text-align: center;"><img src="scan_journal_after.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our revised screen to clear up the confusion from our initial prototype. There is now a new icon with a journal and a phone over it labeled 'Take a scanned photo of a journal', as well as the original icon of the camera now labeled 'Take a normal photo'. There are also the same counterparts for selected a photo from the phone's photo gallery."></p>
+Before: <p style="display: flex; justify-content: center;"><img src="scan_journal_before.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our inital paper prototype screen depicting the add content options after the add content button is pressed on the day view. During our testing we found that participants were confused by the 'Take a photo' button, which they were supposed to press to upload photos of their physical journal entries."></p>
+After: <p style="display: flex; justify-content: center;"><img src="scan_journal_after.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our revised screen to clear up the confusion from our initial prototype. There is now a new icon with a journal and a phone over it labeled 'Take a scanned photo of a journal', as well as the original icon of the camera now labeled 'Take a normal photo'. There are also the same counterparts for selected a photo from the phone's photo gallery."></p>
 
 Lastly, we discovered two main issues in our third usability test. The first was that the participant wished to return to the onboarding tutorial. This issue did not pertain to any of the themes, but we felt that it was important to include. Originally, these screens were only visible when the user signed-up. We subsequently added an option in the settings menu that would allow for this functionality. This is shown on the right-most screen where it says “review onboarding screens”.
 
-Before: <p style="text-align: center;"><img src="settings_before.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our inital paper prototype screen depicting the settings page."></p>
-After: <p style="text-align: center;"><img src="settings_after.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our revised paper prototype depicting the settings page. Notice the new inclusion of a button to review the onboarding screens."></p>
+Before: <p style="display: flex; justify-content: center;"><img src="settings_before.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our inital paper prototype screen depicting the settings page."></p>
+After: <p style="display: flex; justify-content: center;"><img src="settings_after.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our revised paper prototype depicting the settings page. Notice the new inclusion of a button to review the onboarding screens."></p>
 
 Secondly, we found that the participant had difficulty knowing how to delete part of an entry. As part of our initial paper prototype, we had a swipe left functionality for delete. This was a minimalistic design issue. At first we wanted to create a very simple design but it was not intuitive for the participants. Because of this, we decided to incorporate an edit mode that would have a garbage icon to delete entries. We felt that this would be visually clear and more readily understood.
 
-Before: <p style="text-align: center;"><img src="delete_before.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our inital paper prototype screen showing the action of deleting an item from the day view. The user has swiped left on an entry to reveal a delete and share icon for that item."></p>
-After: <p style="text-align: center;"><img src="delete_after.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our revised paper prototype screen showing the new edit mode view, where a user is able to see the delete buttons clearly for each entry, without needing any hidden gestures, as well as undo and redo buttons of the bottom bar for more control."></p>
+Before: <p style="display: flex; justify-content: center;"><img src="delete_before.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our inital paper prototype screen showing the action of deleting an item from the day view. The user has swiped left on an entry to reveal a delete and share icon for that item."></p>
+After: <p style="display: flex; justify-content: center;"><img src="delete_after.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="A drawing of our revised paper prototype screen showing the new edit mode view, where a user is able to see the delete buttons clearly for each entry, without needing any hidden gestures, as well as undo and redo buttons of the bottom bar for more control."></p>
 
 Overarching feedback from design critiques helped us address some of the layout, cluttering, and visual concerns associated with our design and further improve the prototype.
 
@@ -80,13 +98,13 @@ After our testing, we were able spot inconsistencies between screens and add fun
 
 We refined how users accomplish the task of daily recording by adding a suggestions button, which would provide the option to auto-populate the day with entries drawn from different connected sources. Users can easily tap or drag those elements into their day, which saves them time. This contributes to the first task because one of the major pain points deterring people from journaling was how time consuming it is, so this suggestion feature aims to make recording more efficient.
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="onboarding_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Final paper prototype screen that demonstrates the adding content flow">
 </p>
 
 We also refined how users accomplish the task of evaluating and selecting memories they want to keep. Initially, we only had a way to add and share content, but did not have a way to delete added entries. We realized that people may at times like to go back to an old day and want to delete their past entries, or potentially undo an entry accidentally just added. This not only supports Nielsen’s heuristic of “Control and Freedom” but also our task because it allows users to remove unwanted memories or moments of regret.
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="onboarding_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Final paper prototype screen that shows the viewing of memories and how they can be manipulated">
 </p>
 
@@ -94,7 +112,7 @@ Developed with these two main tasks in mind, below is the complete final paper p
 
 #### First Time Onboarding and Logging In
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="onboarding_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Final paper prototype onboarding screen with the logo and login and sign up options">
 <img src="onboarding_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Final paper prototype screen showing how a new user signs up for an account">
 <img src="onboarding_3.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Onboarding screen introducing remi-nice to the user">
@@ -105,21 +123,21 @@ Developed with these two main tasks in mind, below is the complete final paper p
 
 #### Connecting Services
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="services_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Screen showing the numerous sources the user can connect, all unchecked">
 <img src="services_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Screen showing the numerous sources the user can connect, some checked with blue checks, others left unchecked">
 </p>
 
 #### Home and Settings Pages
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="home.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Final paper prototype home screen with 'today',  calendar and settings options">
 <img src="settings_after.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Final paper prototype settings screen allowing to toggle connected services, access account details, and change layout">
 </p>
 
 #### Day View and Adding/Removing Content
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="day_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Final paper prototype 'Today' screen with no content added yet, with date slider and sharing options">
 <img src="day_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Screen showing how content can be added, either from photos or connected services">
 <img src="day_3.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Screen showing 'Today' after content was added and the options for interacting wit memories (such as deleting and sharing)">
@@ -127,7 +145,7 @@ Developed with these two main tasks in mind, below is the complete final paper p
 
 #### Adding a Journal Entry
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="add_journal_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Final paper prototype screen demonstrating how a physical entery would be captured">
 <img src="add_journal_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Final paper prototype showing the journal entry select/deselect options">
 <img src="add_journal_3.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Screen showing the selected text from physical journal entries">
@@ -148,7 +166,7 @@ In transitioning from our paper prototype to our digital mockup we had to make c
 
 In the onboarding screens, we mainly focused on the first task. We felt that making onboarding fast and easy would make users more likely to record regularly. Additionally, we gave the option of linking different accounts so that a user can easily capture different parts of his/her life.
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="digital_on_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Digital mockup version of the login screen, with the logo, log in, and sign up ">
 <img src="digital_on_7.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Digital version of the sign in screen, waiting for email and password input ">
 <img src="digital_on_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Account confirmation page">
@@ -162,14 +180,14 @@ In the onboarding screens, we mainly focused on the first task. We felt that mak
 
 In the home screen, we addressed task 1 by making it easy to interact with the app and begin recording memories.
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="digital_home.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Digital mockup of the home screen with 'Today', memories, and a tool bar showing flow options">
 <img src="digital_settings.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Mockup of the final settings screen, showing profile options, ability to review onboarding screens, toggle connected services, and ability to log out. ">
 </p>
 
 Adding content addressed the first task. It clarified how to record your day. This was accomplished through the simple “+” icon to add content.
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="digital_day_1" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Screen showing 'Your Story'/'Today' without content added yet, but with ability to change the date, and to add/delete/share content. ">
 <img src="digital_day_2" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Screen showing expanded add content options with services and suggestions">
 <img src="digital_day_4" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Screen in 'add content' mode with an added memory to the day's story ">
@@ -180,7 +198,7 @@ Delete and share content directly accomplishes task two. It allows a user to pic
 
 #### Delete Content
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="digital_delete_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="'Your story' screen before delete functionality has been used, with options to add/delete/share">
 <img src="digital_delete_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Screen after delete has been selected, with all memories up for selection">
 <img src="digital_delete_3.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="'Your story' screen demonstrating the delete functionality, with certain memories selected with green checks ">
@@ -190,7 +208,7 @@ Delete and share content directly accomplishes task two. It allows a user to pic
 
 #### Share Content
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="digital_share_1.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="'Your story' screen before share functionality has been used, with options to add/delete/share ">
 <img src="digital_share_2.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Screen after search has been selected, with all memories up for selection">
 <img src="digital_share_3.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="'Your story' screen demonstrating the sharing functionality, with certain memories selected with green checks ">
@@ -199,7 +217,7 @@ Delete and share content directly accomplishes task two. It allows a user to pic
 
 Calendar, search, and statistics addresses both tasks. For the first task (regular recording), it provides a day, week, and month view for the user. We felt that this would aid regular recording because a user could see when and how often he/she has been recording. Secondly, the search and the statistics views allow a user to filter through memories. This provides a platform for a user to “evaluate memories and actively highlight more valuable ones.”
 
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
 <img src="digital_calendar.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Digital mockup of the calendar screen, showing a month with icons represented memories that can be filtered, as well as search and stats options">
 <img src="digital_search.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Digital mockup of search screen demonstrating how keywords could be used to show memories">
 <img src="digital_stats.jpg" width="25%" style="max-width: 110px; display: block; margin: auto;" alt="Digital mockup of the stats pages showing the days recored, the number of each type of memories, and visible trends ">
